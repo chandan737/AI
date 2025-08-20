@@ -1,2 +1,9 @@
-openweathermap.org/api_keys
+openweathermap.org/api_keys (6qT-9XQ/n#Aj2hZ)
                       49da9360b166877df34e407616914702
+
+OpenAPI/api_keys
+API_Teast 
+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
+API_Test  _ 2
+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
+
