@@ -1,3 +1,9 @@
+def get_waether():
+  return "Today weather is suuny "
+
+def draft_email():
+  return "Email drafted : 'Hello , this is a test email.'"
+
 tools = {
     "weather" : get_waether,
     "email" : draft_email
